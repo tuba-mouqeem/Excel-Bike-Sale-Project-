@@ -10,4 +10,5 @@ The dataset used for this project contains sales information for a bike store, i
 The dashboard includes several charts to provide visual representations of key sales metrics and trends:
 
 **Sales Revenue Trend**: Chart showing the trend of sales revenue over time, allowing users to identify seasonal patterns and overall growth trends.
+
 **Regional Sales Performance:** Chart comparing sales performance across different regions, enabling comparison and identification of high-performing regions.
