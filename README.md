@@ -7,6 +7,7 @@ The dataset used for this project contains sales information for a bike store, i
 
 **Dashboard Component**
 **Charts**
+
 The dashboard includes several charts to provide visual representations of key sales metrics and trends:
 
 **Sales Revenue Trend**: Chart showing the trend of sales revenue over time, allowing users to identify seasonal patterns and overall growth trends.
