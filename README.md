@@ -8,9 +8,10 @@ The dataset used for this project contains sales information for a bike store, i
 
 **Dashboard Component**
 **Charts**
-
 The dashboard includes several charts to provide visual representations of key sales metrics and trends:
+
 **Sales Revenue Trend**: Chart showing the trend of sales revenue over time, allowing users to identify seasonal patterns and overall growth trends.
+
 **Regional Sales Performance:** Chart comparing sales performance across different regions, enabling comparison and identification of high-performing regions.
 
 ![image](https://github.com/tuba-mouqeem/Excel-Bike-Sale-Project-/assets/76019991/3d50541b-e8d0-4249-9ec0-fbf31b621db5)
