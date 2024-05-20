@@ -18,5 +18,7 @@ The dashboard includes several charts to provide visual representations of key s
 **Regional Sales Performance:** Chart comparing sales performance across different regions, enabling comparison and identification of high-performing regions.
 
 ![image](https://github.com/tuba-mouqeem/Excel-Bike-Sale-Project-/assets/76019991/3d50541b-e8d0-4249-9ec0-fbf31b621db5)
+![image](https://github.com/tuba-mouqeem/Excel-Bike-Sale-Project-/assets/76019991/21b91ed9-6637-4796-8c1d-63879e85dfcc)
+
 
 
